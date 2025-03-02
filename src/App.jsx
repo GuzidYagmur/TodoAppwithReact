@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSquareCheck } from "@fortawesome/free-solid-svg-icons";
-import './app.css';
+import './App.css';
 
 
 function TodoApp(){
